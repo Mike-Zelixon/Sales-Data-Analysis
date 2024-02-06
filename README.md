@@ -6,6 +6,8 @@ Explores topics that any business would ask themselves with a data deep dive on 
 
 Libraries that were used include Pandas and Matplotlib. 
 
-Huge thanks to Keith Galli for the inspiration and instructions! 
+Huge thanks to Keith Galli for the inspiration and instructions!!! 
 
-![alt text](https://raw.githubusercontent.com/Mike-Zelixon/Sales-Data-Analysis/main/sales%20data%20chart.png?token=GHSAT0AAAAAACL73EIFCAZUUDY2TBFT6T22ZNRSFLA)
+![Alt text](https://raw.githubusercontent.com/Mike-Zelixon/Sales-Data-Analysis/main/sales%20data%20chart.png?token=GHSAT0AAAAAACL73EIE6BGJSO3FMRR5BQCSZOCVI2A)
+
+
