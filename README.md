@@ -10,4 +10,4 @@ Huge thanks to Keith Galli for the inspiration and instructions!!!
 
 ![Alt text](https://raw.githubusercontent.com/Mike-Zelixon/Sales-Data-Analysis/main/sales%20data%20chart.png?token=GHSAT0AAAAAACL73EIE6BGJSO3FMRR5BQCSZOCVI2A)
 
-
+![Alt text](https://raw.githubusercontent.com/Mike-Zelixon/Sales-Data-Analysis/main/monthly%20sales.png)
